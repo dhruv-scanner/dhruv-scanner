@@ -34,7 +34,7 @@ def send_telegram(msg):
 # --------------------------------------
 API_KEY = "yy8XdcLZ"
 CLIENT_CODE = "P305906"
-MPIN = "2704"
+MPIN = "1211"
 TOTP_SECRET = "KAJ6VL5L34VCWV3AAFKGI555NU"
 
 # LOGIN
@@ -212,3 +212,4 @@ msg += "\n*Near LL:* " + (", ".join(NL1) or "None")
 send_telegram(msg)
 
 print("\n📩 Telegram message sent!\n")
+
