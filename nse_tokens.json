@@ -7,7 +7,6 @@
     "INFY": "1594",
     "BHARTIARTL": "10604",
     "LT": "11483",
-    "ITC": "1660",
     "AXISBANK": "5900",
     "ADANIENT": "25",
     "ADANIPORTS": "15083",
@@ -16,7 +15,6 @@
     "BAJAJ-AUTO": "16669",
     "BAJFINANCE": "317",
     "BAJAJFINSV": "16675",
-    "BEL": "383",
     "CIPLA": "694",
     "COALINDIA": "20374",
     "DRREDDY": "881",
@@ -34,8 +32,6 @@
     "MARUTI": "10999",
     "MAXHEALTH": "22377",
     "NESTLEIND": "17963",
-    "NTPC": "11630",
-    "ONGC": "2475",
     "POWERGRID": "14977",
     "SBIN": "3045",
     "SBILIFE": "21808",
@@ -50,3 +46,4 @@
     "ULTRACEMCO": "11532",
     "WIPRO": "3787"
 }
+
